@@ -1,6 +1,6 @@
 # Sales Pipeline & CRM Hygiene Dashboard
 
-Sales Ops analytics project on **simulated B2B CRM data** (Dynamics-style fields). Not real client data.
+Sales Ops analytics project on **simulated B2B CRM data** (Dynamics-style fields).
 
 **Live demo:** https://crm-dashboard-smoky-pi.vercel.app/
 
