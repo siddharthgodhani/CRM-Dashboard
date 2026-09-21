@@ -1,0 +1,16 @@
+{
+  "before": {
+    "duplicate_accounts": 158,
+    "missing_duns": 81,
+    "invalid_industry": 40,
+    "missing_owner_opps": 101,
+    "stale_opps": 1062
+  },
+  "after": {
+    "duplicate_accounts": 0,
+    "missing_duns": 67,
+    "invalid_industry": 0,
+    "missing_owner_opps": 101,
+    "stale_opps": 1062
+  }
+}

@@ -1,0 +1,651 @@
+Account_ID,Account_Name,Industry,Country,DUNS,Owner
+A0,Apex Health 0,Retail,India,685582861,Vikram
+A1,Apex Systems 1,Manufacturing,India,868820204,Vikram
+A2,Vertex Health 2,Banking,United States,553778756,Amit
+A3,Delta Systems 3,Banking,United States,384027113,Neha
+A4,Nova Labs 4,Healthcare,Singapore,488302652,Priya
+A5,Zen Health 5,Retail,India,586845604,Divya
+A6,Delta Energy 6,Healthcare,United States,176667861,Amit
+A7,Zen Holdings 7,Healthcare,Singapore,698020238,Divya
+A8,Zen Tech 8,Software,India,709004943,Divya
+A9,Vertex Labs 9,Energy,United States,364814270,Karthik
+A10,Prime Labs 10,Retail,Singapore,,Priya
+A11,Blue Labs 11,Software,United States,668132202,Rahul
+A12,Lumen Health 12,Healthcare,IN,103484630,Karthik
+A13,Blue Systems 13,Healthcare,Singapore,313579170,Amit
+A14,Lumen Tech 14,Software,SG,992994062,Sneha
+A15,Zen Systems 15,Software,India,671988889,Amit
+A16,Lumen Holdings 16,Manufacturing,Germany,679064766,Sneha
+A17,Prime Energy 17,Manufacturing,United Kingdom,168747287,Sneha
+A18,Zen Tech 18,Energy,SG,454794895,Sneha
+A19,Vertex Retail 19,Energy,United Kingdom,607526654,Neha
+A20,Zen Systems 20,Software,Germany,882839238,Priya
+A21,Prime Energy 21,Banking,India,581695135,Amit
+A22,Vertex Retail 22,Banking,United Kingdom,690907304,Rahul
+A23,Zen Holdings 23,Software,India,162959284,Rahul
+A24,Orion Group 24,Energy,Germany,696751693,Neha
+A25,Zen Health 25,Banking,United States,903132646,Rahul
+A26,Vertex Holdings 26,Misc,Singapore,,Sneha
+A27,Nova Retail 27,Banking,Germany,726713347,Divya
+A28,Zen Energy 28,Software,UK,907308348,Rahul
+A29,Terra Systems 29,Retail,Germany,474745382,Sneha
+A30,Orion Holdings 30,Manufacturing,United Kingdom,966616964,Rahul
+A31,Orion Systems 31,Retail,Singapore,897163846,Karthik
+A32,Terra Retail 32,Retail,United Kingdom,642678844,Rahul
+A33,Prime Health 33,N/A,India,381272327,Neha
+A34,Prime Tech 34,Energy,Singapore,996139578,Amit
+A35,Blue Tech 35,Banking,Germany,367930513,Divya
+A36,Prime Holdings 36,Retail,Singapore,970559510,Vikram
+A37,Blue Energy 37,Software,India,970535450,Amit
+A38,Prime Tech 38,Retail,IN,981044229,Sneha
+A39,Apex Retail 39,Healthcare,United States,399708182,Vikram
+A40,Delta Tech 40,Healthcare,SG,,Divya
+A41,Prime Systems 41,Manufacturing,UK,101815992,Sneha
+A42,Prime Systems 42,Healthcare,United Kingdom,233815413,Karthik
+A43,Orion Labs 43,Energy,Singapore,551450815,Vikram
+A44,Terra Health 44,Banking,United States,943702118,Divya
+A45,Vertex Group 45,Manufacturing,Germany,954725078,Priya
+A46,Lumen Energy 46,Retail,United Kingdom,313814138,Rahul
+A47,Vertex Systems 47,Energy,United States,512293741,Sneha
+A48,Apex Systems 48,Retail,US,,Priya
+A49,Blue Group 49,Manufacturing,Germany,575209597,Vikram
+A50,Vertex Holdings 0,Software,Singapore,784683755,Neha
+A51,Orion Group 1,Healthcare,United States,679984033,Amit
+A52,Prime Holdings 2,Banking,United States,600282414,Sneha
+A53,Prime Tech 3,Manufacturing,Germany,,Vikram
+A54,Lumen Retail 4,Healthcare,Germany,,Vikram
+A55,Vertex Holdings 5,Manufacturing,US,811890569,
+A56,Blue Group 6,Healthcare,Germany,450948014,Vikram
+A57,Prime Health 7,Software,UK,475767056,Priya
+A58,Apex Retail 8,Banking,India,608482316,Sneha
+A59,Orion Energy 9,Manufacturing,Germany,935147672,Karthik
+A60,Terra Tech 10,Manufacturing,India,525904456,Sneha
+A61,Terra Retail 11,Healthcare,India,229981882,Rahul
+A62,Lumen Labs 12,Banking,United Kingdom,551034639,Priya
+A63,Delta Group 13,Software,DE,677858758,Neha
+A64,Terra Health 14,Retail,Germany,,Sneha
+A65,Terra Labs 15,Software,Germany,327761953,Karthik
+A66,Orion Health 16,Manufacturing,United Kingdom,,Neha
+A67,Zen Group 17,Software,Singapore,,Vikram
+A68,Orion Energy 18,Manufacturing,United States,690975123,Neha
+A69,Orion Health 19,Energy,UK,918394863,Sneha
+A70,Vertex Health 20,Manufacturing,United States,994027897,Sneha
+A71,Blue Health 21,Misc,United Kingdom,694164665,Amit
+A72,Nova Tech 22,Software,Germany,155165334,Neha
+A73,Nova Labs 23,Manufacturing,India,,Karthik
+A74,Zen Systems 24,Software,India,342329714,Vikram
+A75,Vertex Health 25,Software,Germany,754586204,Priya
+A76,Zen Health 26,Retail,United States,268075622,
+A77,Terra Group 27,Retail,Germany,587512424,Sneha
+A78,Terra Retail 28,Manufacturing,United Kingdom,385220694,Priya
+A79,Blue Health 29,Manufacturing,India,603260608,Vikram
+A80,Lumen Group 30,Manufacturing,UK,748232591,Priya
+A81,Terra Tech 31,Energy,United States,919382051,Neha
+A82,Vertex Health 32,Manufacturing,Singapore,197970787,Vikram
+A83,Delta Systems 33,Healthcare,United Kingdom,811443654,Rahul
+A84,Nova Energy 34,Banking,Germany,652543518,Rahul
+A85,Vertex Labs 35,N/A,Singapore,574637858,Sneha
+A86,Lumen Holdings 36,Software,United Kingdom,130998324,Sneha
+A87,Orion Tech 37,Banking,United States,221827951,Priya
+A88,Vertex Health 38,Healthcare,United States,607042130,Amit
+A89,Zen Holdings 39,Healthcare,Germany,464938258,Karthik
+A90,Orion Health 40,Manufacturing,India,259553112,Neha
+A91,Delta Labs 41,Healthcare,United Kingdom,356415500,Sneha
+A92,Apex Energy 42,Energy,Germany,812630453,Amit
+A93,Apex Holdings 43,Manufacturing,Germany,,Priya
+A94,Vertex Tech 44,Software,Singapore,180346223,Karthik
+A95,Terra Labs 45,Healthcare,United Kingdom,508031980,Neha
+A96,Apex Systems 46,Energy,Singapore,901834280,Priya
+A97,Vertex Holdings 47,Banking,india,502482554,Sneha
+A98,Prime Holdings 48,Banking,Singapore,833510170,Amit
+A99,Vertex Health 49,Energy,US,827579147,Priya
+A100,Delta Health 0,Software,Germany,424400672,Vikram
+A101,Nova Retail 1,Healthcare,Germany,417001612,
+A102,Orion Tech 2,Energy,Germany,751124015,Karthik
+A103,Terra Energy 3,Retail,United States,874090950,Amit
+A104,Apex Health 4,Banking,India,196779973,Divya
+A105,Blue Retail 5,Manufacturing,Germany,638798023,Amit
+A106,Vertex Health 6,Healthcare,United Kingdom,180852074,Sneha
+A107,Lumen Energy 7,Software,germany,822443971,Karthik
+A108,Prime Energy 8,Retail,Singapore,702806585,Sneha
+A109,Vertex Health 9,Banking,india,628951656,Sneha
+A110,Blue Labs 10,Energy,Singapore,680027275,Amit
+A111,Nova Group 11,Healthcare,DE,577488537,Divya
+A112,Delta Energy 12,N/A,india,984968439,Sneha
+A113,Apex Tech 13,Retail,Singapore,320337809,Sneha
+A114,Zen Retail 14,Retail,Singapore,397721596,Amit
+A115,Lumen Health 15,Banking,United States,,
+A116,Terra Energy 16,N/A,US,900651998,Neha
+A117,Lumen Systems 17,Retail,United Kingdom,,Karthik
+A118,Apex Tech 18,Software,Germany,,Neha
+A119,Nova Energy 19,Banking,IN,741444618,Neha
+A120,Terra Labs 20,Energy,SG,345343109,Neha
+A121,Prime Systems 21,Healthcare,Germany,263894795,Neha
+A122,Nova Systems 22,Banking,India,239710404,Divya
+A123,Prime Energy 23,Software,India,408839723,Divya
+A124,Terra Retail 24,Software,India,,Divya
+A125,Orion Retail 25,Manufacturing,India,758819288,Rahul
+A126,Orion Tech 26,Energy,Singapore,476908532,
+A127,Terra Labs 27,Misc,USA,587098457,Divya
+A128,Delta Systems 28,Retail,UK,392168202,Vikram
+A129,Terra Group 29,Retail,Germany,,Karthik
+A130,Vertex Health 30,N/A,Singapore,,Sneha
+A131,Orion Health 31,Banking,United States,238712095,Sneha
+A132,Lumen Energy 32,Energy,SG,183604337,Vikram
+A133,Prime Labs 33,Software,SG,763706947,Divya
+A134,Prime Systems 34,Manufacturing,India,,Divya
+A135,Delta Holdings 35,Energy,USA,475138838,Amit
+A136,Nova Holdings 36,Retail,United States,803847447,Neha
+A137,Terra Group 37,Manufacturing,Germany,447042200,Divya
+A138,Vertex Systems 38,Energy,United States,160314355,Priya
+A139,Vertex Group 39,N/A,United Kingdom,,Priya
+A140,Terra Labs 40,Manufacturing,Singapore,144047803,Sneha
+A141,Terra Group 41,Banking,United Kingdom,999126903,Priya
+A142,Blue Tech 42,Software,Singapore,754773573,Divya
+A143,Prime Labs 43,Energy,United Kingdom,795038832,Divya
+A144,Lumen Labs 44,Energy,India,747145068,Divya
+A145,Terra Holdings 45,Healthcare,India,520861681,Priya
+A146,Lumen Labs 46,Healthcare,United Kingdom,990087914,Priya
+A147,Lumen Energy 47,N/A,germany,922653967,Sneha
+A148,Blue Systems 48,Banking,United States,893112954,Rahul
+A149,Terra Holdings 49,Retail,UK,146914391,Sneha
+A150,Terra Health 0,Software,Germany,968253265,Sneha
+A151,Terra Group 1,Healthcare,United Kingdom,549533634,Sneha
+A152,Blue Health 2,N/A,Singapore,210154881,Priya
+A153,Nova Holdings 3,Manufacturing,UK,,Neha
+A154,Apex Labs 4,N/A,United Kingdom,502559419,Divya
+A155,Delta Holdings 5,Healthcare,India,992398092,Neha
+A156,Terra Tech 6,Banking,Germany,689274064,Vikram
+A157,Orion Retail 7,Banking,India,768737754,Priya
+A158,Terra Tech 8,Manufacturing,Germany,560891752,
+A159,Zen Labs 9,Energy,UK,,Rahul
+A160,Vertex Tech 10,Healthcare,Germany,,Divya
+A161,Nova Energy 11,Healthcare,United States,288000513,Neha
+A162,Blue Holdings 12,N/A,germany,,Rahul
+A163,Orion Labs 13,Manufacturing,United Kingdom,,Karthik
+A164,Apex Energy 14,Healthcare,United Kingdom,572163615,Vikram
+A165,Blue Group 15,Healthcare,United Kingdom,960226208,Vikram
+A166,Prime Holdings 16,Healthcare,IN,429097422,Vikram
+A167,Vertex Energy 17,Energy,United States,567013808,Rahul
+A168,Prime Energy 18,Energy,India,253308283,Neha
+A169,Blue Systems 19,Energy,India,709074302,Amit
+A170,Delta Energy 20,Banking,Germany,527385805,Karthik
+A171,Nova Tech 21,Software,United States,226444910,Karthik
+A172,Zen Health 22,Software,Germany,179512774,Neha
+A173,Delta Energy 23,Manufacturing,India,269119969,Amit
+A174,Lumen Retail 24,Retail,United Kingdom,630452018,
+A175,Terra Energy 25,Manufacturing,SG,,Neha
+A176,Prime Labs 26,Banking,SG,583156434,Divya
+A177,Lumen Holdings 27,Retail,United States,159499094,Amit
+A178,Blue Holdings 28,Energy,United Kingdom,657162259,Priya
+A179,Zen Health 29,Healthcare,United Kingdom,,Amit
+A180,Terra Energy 30,Manufacturing,USA,,Karthik
+A181,Terra Labs 31,Banking,United States,411032572,Karthik
+A182,Zen Labs 32,Banking,Germany,546270451,Sneha
+A183,Terra Holdings 33,Energy,United Kingdom,470838810,Amit
+A184,Lumen Systems 34,Software,UK,203950725,Vikram
+A185,Prime Retail 35,Retail,Singapore,874305759,Amit
+A186,Lumen Group 36,Healthcare,Germany,,Neha
+A187,Zen Energy 37,N/A,United States,802506364,Karthik
+A188,Apex Systems 38,Healthcare,Singapore,492922240,Rahul
+A189,Lumen Retail 39,Healthcare,SG,400347789,Priya
+A190,Nova Labs 40,Healthcare,United States,254905897,Vikram
+A191,Apex Tech 41,N/A,Singapore,259923818,Amit
+A192,Terra Energy 42,Manufacturing,United Kingdom,461178244,Neha
+A193,Orion Group 43,Healthcare,Singapore,,Karthik
+A194,Terra Group 44,Energy,India,720230209,Rahul
+A195,Vertex Holdings 45,Energy,Singapore,258672959,Sneha
+A196,Terra Systems 46,Software,India,841419015,Neha
+A197,Blue Retail 47,Energy,India,285953213,Divya
+A198,Delta Health 48,Retail,Singapore,420511037,Karthik
+A199,Zen Group 49,Healthcare,United Kingdom,874881231,Priya
+A200,Lumen Labs 0,Software,Singapore,963949678,Rahul
+A201,Nova Energy 1,Energy,United Kingdom,316968866,Karthik
+A202,Orion Holdings 2,Energy,Singapore,819228743,Sneha
+A203,Apex Systems 3,Energy,United States,247604106,
+A204,Blue Labs 4,Software,Singapore,408427014,Rahul
+A205,Terra Retail 5,Energy,India,,Vikram
+A206,Apex Labs 6,Retail,United States,410812797,Rahul
+A207,Terra Systems 7,Healthcare,United Kingdom,683364453,Amit
+A208,Vertex Health 8,Banking,Singapore,796091085,Amit
+A209,Delta Health 9,Retail,IN,653278397,Vikram
+A210,Blue Holdings 10,Retail,IN,909340042,Divya
+A211,Terra Tech 11,Healthcare,United Kingdom,,Karthik
+A212,Prime Health 12,Energy,United States,759949050,Amit
+A213,Blue Group 13,Manufacturing,Germany,605547798,Sneha
+A214,Terra Systems 14,Manufacturing,United States,,Rahul
+A215,Lumen Retail 15,Retail,SG,,Neha
+A216,Lumen Group 16,Software,IN,161994392,Karthik
+A217,Prime Health 17,Energy,India,,Priya
+A218,Apex Systems 18,Software,SG,245415636,Vikram
+A219,Prime Group 19,Software,United Kingdom,810594320,Amit
+A220,Nova Holdings 20,Software,United Kingdom,339111798,Rahul
+A221,Vertex Labs 21,Retail,United Kingdom,395976645,Priya
+A222,Prime Tech 22,Banking,india,821579885,Rahul
+A223,Apex Labs 23,Manufacturing,United States,160606325,Karthik
+A224,Terra Energy 24,Energy,United States,253824712,Sneha
+A225,Orion Health 25,Misc,Germany,632168774,Divya
+A226,Lumen Energy 26,Software,DE,677596076,Sneha
+A227,Blue Group 27,Manufacturing,United Kingdom,669074377,Sneha
+A228,Zen Energy 28,Software,United Kingdom,,Sneha
+A229,Orion Labs 29,Manufacturing,india,917865301,Sneha
+A230,Zen Energy 30,Banking,Germany,896152940,Neha
+A231,Terra Retail 31,Retail,United States,508732434,Divya
+A232,Orion Energy 32,Software,United Kingdom,875685667,Divya
+A233,Delta Energy 33,Manufacturing,United States,117415986,Vikram
+A234,Blue Retail 34,Software,United Kingdom,691247918,Divya
+A235,Vertex Group 35,Energy,United Kingdom,873430762,Amit
+A236,Apex Tech 36,Banking,Singapore,920702588,
+A237,Zen Systems 37,Banking,United States,164907817,Neha
+A238,Apex Tech 38,Software,DE,407829477,
+A239,Blue Systems 39,Manufacturing,germany,371031968,Karthik
+A240,Nova Energy 40,Software,Germany,342512383,Priya
+A241,Nova Labs 41,Manufacturing,India,854674236,Neha
+A242,Delta Systems 42,Banking,Germany,843338269,Neha
+A243,Apex Systems 43,Healthcare,United Kingdom,135328023,Divya
+A244,Zen Holdings 44,Energy,India,421346113,Sneha
+A245,Prime Energy 45,Energy,SG,471363809,Vikram
+A246,Nova Energy 46,Manufacturing,United States,930598266,Karthik
+A247,Vertex Retail 47,Software,Germany,809391059,Karthik
+A248,Nova Systems 48,Software,United States,894198823,Divya
+A249,Nova Tech 49,Software,India,242278314,Vikram
+A250,Lumen Labs 0,Banking,Germany,,Divya
+A251,Apex Health 1,Banking,Germany,360642799,Amit
+A252,Blue Holdings 2,Healthcare,Germany,,Vikram
+A253,Vertex Systems 3,Retail,United Kingdom,762143074,Priya
+A254,Orion Tech 4,Healthcare,United States,453842723,Vikram
+A255,Blue Health 5,Energy,Singapore,527606494,Karthik
+A256,Terra Retail 6,Healthcare,Germany,222286118,Sneha
+A257,Lumen Holdings 7,Manufacturing,SG,325108249,Karthik
+A258,Prime Group 8,Healthcare,India,867979226,Vikram
+A259,Vertex Group 9,Manufacturing,India,842716738,Rahul
+A260,Lumen Systems 10,Retail,United Kingdom,794710793,Vikram
+A261,Prime Systems 11,N/A,United Kingdom,699140867,Sneha
+A262,Delta Labs 12,Energy,Germany,470405910,Neha
+A263,Orion Labs 13,Banking,india,468365044,Sneha
+A264,Vertex Energy 14,Software,Singapore,172127903,Priya
+A265,Delta Systems 15,Retail,India,654044237,Amit
+A266,Lumen Labs 16,Retail,United Kingdom,300131434,Vikram
+A267,Apex Retail 17,Software,Germany,320959407,Priya
+A268,Nova Holdings 18,Retail,Singapore,625579419,Divya
+A269,Prime Labs 19,Healthcare,Singapore,285250002,Karthik
+A270,Terra Systems 20,Healthcare,SG,,Amit
+A271,Prime Labs 21,Manufacturing,Singapore,782364690,Amit
+A272,Blue Group 22,Retail,Singapore,157564650,Rahul
+A273,Blue Retail 23,Manufacturing,Germany,835187452,Neha
+A274,Blue Systems 24,Retail,Germany,677252858,Neha
+A275,Vertex Systems 25,Healthcare,Singapore,493914829,Rahul
+A276,Lumen Retail 26,Banking,Germany,365785059,Rahul
+A277,Orion Energy 27,Banking,Germany,932828137,Sneha
+A278,Delta Labs 28,Retail,Singapore,964835149,Divya
+A279,Orion Holdings 29,Energy,Singapore,652348887,Priya
+A280,Prime Tech 30,Energy,USA,863854401,Sneha
+A281,Vertex Holdings 31,Healthcare,Germany,181084980,Priya
+A282,Lumen Health 32,Healthcare,Germany,724870012,
+A283,Vertex Energy 33,Manufacturing,India,985673417,Karthik
+A284,Orion Energy 34,Retail,United Kingdom,469087606,Rahul
+A285,Nova Group 35,Misc,India,,Sneha
+A286,Orion Holdings 36,Healthcare,US,499264207,Amit
+A287,Prime Health 37,Retail,India,,Sneha
+A288,Nova Holdings 38,Manufacturing,Germany,,Priya
+A289,Blue Group 39,Software,germany,,Karthik
+A290,Prime Holdings 40,Energy,USA,276218805,Sneha
+A291,Prime Group 41,Banking,United States,232239057,Vikram
+A292,Prime Energy 42,Retail,United Kingdom,,Karthik
+A293,Orion Retail 43,Manufacturing,IN,158593156,Sneha
+A294,Prime Systems 44,Energy,Germany,112956853,Divya
+A295,Prime Labs 45,Energy,US,927175323,Priya
+A296,Orion Retail 46,Misc,India,407613928,Vikram
+A297,Prime Systems 47,Manufacturing,Germany,432759989,Sneha
+A298,Lumen Energy 48,Energy,United States,790581965,Vikram
+A299,Apex Retail 49,Software,USA,896387342,Amit
+A300,Apex Holdings 0,Retail,India,655363795,Karthik
+A301,Delta Holdings 1,Healthcare,United States,,Divya
+A302,Orion Systems 2,Manufacturing,Germany,648447868,Neha
+A303,Blue Energy 3,Banking,Singapore,223838514,Rahul
+A304,Apex Retail 4,N/A,India,137971349,Vikram
+A305,Delta Retail 5,Energy,United States,713682070,Rahul
+A306,Zen Tech 6,Banking,United States,930568802,Divya
+A307,Lumen Group 7,Misc,India,894113665,Neha
+A308,Terra Group 8,Retail,United Kingdom,954670083,Rahul
+A309,Apex Retail 9,Energy,Germany,459722166,
+A310,Orion Systems 10,Retail,Germany,252872361,Priya
+A311,Zen Labs 11,Healthcare,India,723597716,Amit
+A312,Nova Tech 12,Retail,Germany,438238241,Vikram
+A313,Delta Group 13,Banking,United Kingdom,926938633,Amit
+A314,Blue Group 14,Software,IN,322947698,Neha
+A315,Nova Systems 15,Energy,United Kingdom,747791119,Divya
+A316,Nova Retail 16,Software,United States,379351967,Amit
+A317,Prime Group 17,Manufacturing,India,963177562,Priya
+A318,Apex Retail 18,Software,India,792225271,Karthik
+A319,Apex Systems 19,Energy,India,990514408,Priya
+A320,Vertex Tech 20,Manufacturing,India,632711663,
+A321,Blue Energy 21,Retail,Germany,259591761,Sneha
+A322,Vertex Labs 22,Software,UK,550149967,Sneha
+A323,Apex Labs 23,Healthcare,Singapore,469403820,Divya
+A324,Orion Holdings 24,Misc,DE,,Divya
+A325,Zen Holdings 25,Energy,Singapore,949584483,Rahul
+A326,Terra Labs 26,Retail,US,849070816,Rahul
+A327,Terra Holdings 27,Retail,United Kingdom,628524423,Amit
+A328,Apex Systems 28,Misc,DE,,Sneha
+A329,Delta Holdings 29,Healthcare,USA,252098390,Divya
+A330,Delta Labs 30,Healthcare,India,269118504,Vikram
+A331,Delta Holdings 31,Manufacturing,Germany,945026004,Amit
+A332,Orion Health 32,Energy,DE,927672827,Rahul
+A333,Terra Energy 33,Manufacturing,United States,632774653,Priya
+A334,Delta Energy 34,Banking,United States,883064819,Neha
+A335,Orion Retail 35,Banking,India,873538202,
+A336,Vertex Labs 36,Software,Germany,686288768,Neha
+A337,Zen Holdings 37,Banking,Singapore,212447665,Amit
+A338,Blue Systems 38,Banking,Germany,618334675,Vikram
+A339,Terra Labs 39,Banking,United States,539460908,Karthik
+A340,Orion Retail 40,Software,United Kingdom,264915937,Rahul
+A341,Nova Health 41,Energy,Germany,127633490,Karthik
+A342,Vertex Systems 42,Software,India,384546308,Vikram
+A343,Delta Labs 43,Software,US,342925794,Rahul
+A344,Nova Systems 44,Manufacturing,United States,344289964,Vikram
+A345,Prime Group 45,Retail,Singapore,,Rahul
+A346,Terra Holdings 46,Software,SG,968078090,Rahul
+A347,Nova Labs 47,Energy,DE,880720904,Priya
+A348,Prime Labs 48,Healthcare,India,113275526,Vikram
+A349,Prime Holdings 49,Manufacturing,India,207593219,Priya
+A350,Lumen Energy 0,Healthcare,United Kingdom,753868135,Amit
+A351,Prime Holdings 1,Energy,United Kingdom,,Divya
+A352,Apex Group 2,Healthcare,US,627872109,Priya
+A353,Blue Health 3,Software,United States,882542411,Priya
+A354,Vertex Retail 4,Software,United States,501483027,Amit
+A355,Orion Labs 5,Manufacturing,India,,Sneha
+A356,Zen Tech 6,Healthcare,India,984233149,Vikram
+A357,Apex Retail 7,Manufacturing,India,609578849,Divya
+A358,Blue Health 8,Energy,UK,274920492,Sneha
+A359,Zen Retail 9,Software,United States,924174943,Neha
+A360,Blue Tech 10,Manufacturing,United States,861678303,Vikram
+A361,Delta Group 11,Software,Germany,769591945,Priya
+A362,Lumen Energy 12,Manufacturing,India,216076355,Divya
+A363,Delta Health 13,Energy,United Kingdom,302250101,Sneha
+A364,Terra Labs 14,Energy,india,417403063,Vikram
+A365,Prime Tech 15,Manufacturing,Germany,865974442,Neha
+A366,Lumen Health 16,Energy,United Kingdom,204800493,Karthik
+A367,Blue Energy 17,Retail,Singapore,429730298,Divya
+A368,Orion Health 18,Banking,United Kingdom,726608478,Priya
+A369,Zen Systems 19,Software,Germany,261897130,Sneha
+A370,Prime Group 20,Energy,UK,777566277,Divya
+A371,Apex Group 21,Retail,India,943113786,Priya
+A372,Terra Labs 22,Software,United States,105013454,Sneha
+A373,Apex Energy 23,Manufacturing,UK,367171793,Divya
+A374,Blue Systems 24,Manufacturing,United Kingdom,,Karthik
+A375,Lumen Energy 25,Energy,Germany,626325353,Sneha
+A376,Prime Tech 26,Energy,United States,123529192,Amit
+A377,Delta Tech 27,Energy,India,152169850,Rahul
+A378,Apex Tech 28,Software,India,371375678,Amit
+A379,Apex Health 29,Banking,United States,750294914,Vikram
+A380,Lumen Systems 30,Banking,India,935327024,Sneha
+A381,Prime Health 31,Manufacturing,United Kingdom,616108982,Rahul
+A382,Nova Systems 32,Energy,India,937009907,Priya
+A383,Zen Group 33,Healthcare,United Kingdom,,Rahul
+A384,Delta Energy 34,Banking,UK,,Amit
+A385,Delta Group 35,Healthcare,United Kingdom,,Amit
+A386,Prime Labs 36,Healthcare,India,613511668,Amit
+A387,Blue Tech 37,Retail,IN,828419083,Vikram
+A388,Terra Tech 38,Energy,United Kingdom,624117847,Vikram
+A389,Apex Systems 39,Healthcare,germany,819239897,Priya
+A390,Zen Group 40,Energy,Germany,987380851,Rahul
+A391,Blue Group 41,Retail,IN,455295629,Rahul
+A392,Zen Labs 42,Retail,SG,581142194,Neha
+A393,Delta Systems 43,Energy,Germany,,Rahul
+A394,Terra Health 44,Manufacturing,India,465989408,Rahul
+A395,Vertex Energy 45,Manufacturing,United States,490084550,Priya
+A396,Zen Tech 46,Energy,India,660477218,Priya
+A397,Blue Group 47,Energy,India,373041065,Sneha
+A398,Prime Retail 48,Retail,India,,Priya
+A399,Vertex Holdings 49,Banking,Germany,,Neha
+A400,Blue Holdings 0,Retail,SG,513028367,Sneha
+A401,Prime Energy 1,Software,United Kingdom,746955700,Karthik
+A402,Delta Retail 2,Manufacturing,Singapore,821955780,Amit
+A403,Lumen Energy 3,Healthcare,Singapore,816354624,Karthik
+A404,Apex Systems 4,Misc,germany,905505027,Karthik
+A405,Blue Tech 5,Healthcare,United Kingdom,485132332,Priya
+A406,Lumen Retail 6,Manufacturing,Singapore,955593612,Karthik
+A407,Prime Labs 7,Energy,India,113921319,Sneha
+A408,Vertex Retail 8,Energy,Singapore,731773948,Sneha
+A409,Orion Group 9,Energy,USA,228155179,Vikram
+A410,Lumen Health 10,Manufacturing,United Kingdom,,Amit
+A411,Blue Energy 11,Energy,India,626725060,Divya
+A412,Delta Retail 12,Manufacturing,india,676637967,Divya
+A413,Zen Energy 13,Healthcare,United States,669618855,Rahul
+A414,Delta Group 14,Energy,India,142817871,Divya
+A415,Nova Labs 15,Energy,Germany,982732880,Neha
+A416,Apex Health 16,Retail,Germany,,Rahul
+A417,Zen Retail 17,Software,India,989862107,Vikram
+A418,Blue Tech 18,Healthcare,india,,Priya
+A419,Zen Health 19,Software,Singapore,118136542,Priya
+A420,Apex Systems 20,Manufacturing,SG,639917068,Karthik
+A421,Nova Health 21,Software,Singapore,133091814,Sneha
+A422,Prime Health 22,Retail,United States,953643130,Divya
+A423,Lumen Holdings 23,Banking,India,687900972,Karthik
+A424,Delta Retail 24,Energy,United States,297560682,Karthik
+A425,Nova Holdings 25,Manufacturing,United States,689324397,Priya
+A426,Nova Health 26,Energy,United Kingdom,483474399,Sneha
+A427,Orion Systems 27,Healthcare,India,808049250,Amit
+A428,Terra Energy 28,Software,SG,337861414,Vikram
+A429,Delta Holdings 29,Healthcare,United Kingdom,485195859,Neha
+A430,Nova Holdings 30,Banking,Singapore,250325647,Sneha
+A431,Nova Systems 31,Manufacturing,United Kingdom,721589989,Sneha
+A432,Lumen Health 32,Manufacturing,India,492794766,Karthik
+A433,Vertex Systems 33,Manufacturing,USA,966015789,Amit
+A434,Blue Group 34,Manufacturing,Singapore,256980036,Neha
+A435,Apex Retail 35,Retail,UK,817888322,Divya
+A436,Vertex Group 36,Banking,Germany,855631043,Karthik
+A437,Terra Holdings 37,Software,United Kingdom,997078087,Karthik
+A438,Zen Labs 38,Healthcare,Germany,748766605,
+A439,Vertex Holdings 39,Manufacturing,United States,300688440,Priya
+A440,Prime Energy 40,Software,United States,734356903,Vikram
+A441,Zen Tech 41,Manufacturing,india,257695200,Karthik
+A442,Lumen Labs 42,Manufacturing,United States,881656471,Karthik
+A443,Zen Group 43,Software,India,991596102,Amit
+A444,Blue Health 44,Energy,Singapore,734147620,Vikram
+A445,Blue Systems 45,N/A,Germany,290505619,Rahul
+A446,Lumen Systems 46,Energy,SG,932010779,Vikram
+A447,Prime Energy 47,Energy,Singapore,961463274,Vikram
+A448,Terra Systems 48,Healthcare,United Kingdom,189998443,Vikram
+A449,Zen Tech 49,Banking,United Kingdom,,
+A450,Delta Labs 0,Retail,United States,380571840,Vikram
+A451,Delta Health 1,Software,Singapore,941586401,Amit
+A452,Lumen Group 2,Healthcare,United Kingdom,527488567,Priya
+A453,Vertex Holdings 3,Manufacturing,United States,691176704,Rahul
+A454,Prime Tech 4,Retail,United States,194640346,Sneha
+A455,Nova Tech 5,Software,United Kingdom,864080940,Rahul
+A456,Vertex Group 6,N/A,USA,823728171,Sneha
+A457,Blue Systems 7,Software,India,729298787,Rahul
+A458,Nova Health 8,Manufacturing,India,975652436,Sneha
+A459,Prime Tech 9,Software,Germany,640273782,Priya
+A460,Orion Health 10,Software,Singapore,913330750,Neha
+A461,Terra Tech 11,Healthcare,germany,346885603,Vikram
+A462,Lumen Tech 12,Healthcare,United Kingdom,,Divya
+A463,Lumen Holdings 13,Healthcare,India,296263306,Sneha
+A464,Zen Retail 14,Healthcare,Germany,368108429,Divya
+A465,Nova Systems 15,Energy,United States,107112115,Rahul
+A466,Delta Energy 16,Manufacturing,Germany,920620417,Karthik
+A467,Zen Holdings 17,N/A,Germany,639528648,Amit
+A468,Nova Group 18,Banking,germany,208177158,Karthik
+A469,Lumen Health 19,Software,United States,297475805,Sneha
+A470,Delta Energy 20,Healthcare,Germany,718360105,Priya
+A471,Zen Labs 21,Retail,UK,110460711,Neha
+A472,Lumen Energy 22,Healthcare,United States,151227475,Amit
+A473,Zen Health 23,Energy,IN,486876247,Karthik
+A474,Apex Labs 24,Energy,United Kingdom,718361962,Amit
+A475,Delta Energy 25,Software,United Kingdom,184189438,Karthik
+A476,Blue Holdings 26,Healthcare,Germany,534621392,Priya
+A477,Blue Energy 27,Healthcare,India,750027161,Karthik
+A478,Delta Group 28,Retail,Germany,351929030,Priya
+A479,Blue Labs 29,Banking,United States,157794625,
+A480,Lumen Systems 30,Manufacturing,DE,365639987,Neha
+A481,Blue Holdings 31,N/A,United States,611267257,Karthik
+A482,Vertex Holdings 32,Energy,Singapore,590209766,Vikram
+A483,Lumen Health 33,Software,Singapore,574443895,Vikram
+A484,Blue Health 34,Misc,United Kingdom,108930425,Neha
+A485,Orion Tech 35,Healthcare,Germany,688638365,Vikram
+A486,Prime Labs 36,Energy,Singapore,506258874,Priya
+A487,Zen Health 37,Energy,Germany,301864129,Amit
+A488,Orion Systems 38,Manufacturing,United States,628276702,Rahul
+A489,Apex Tech 39,Banking,United States,570746273,Sneha
+A490,Blue Tech 40,Healthcare,India,635148365,Neha
+A491,Delta Systems 41,Retail,IN,,Sneha
+A492,Prime Tech 42,Energy,United Kingdom,575625690,Rahul
+A493,Vertex Systems 43,Retail,United States,435124877,Amit
+A494,Lumen Systems 44,Energy,India,155928537,Sneha
+A495,Zen Labs 45,Retail,India,524995927,Rahul
+A496,Terra Group 46,Retail,India,,Priya
+A497,Delta Tech 47,Misc,Singapore,235106204,Divya
+A498,Delta Group 48,Banking,Singapore,244667571,Rahul
+A499,Vertex Health 49,Software,germany,447549695,Karthik
+A500,Lumen Holdings 0,Misc,Singapore,681544961,Rahul
+A501,Prime Holdings 1,Manufacturing,Singapore,356395115,Priya
+A502,Prime Retail 2,Software,Singapore,404007541,Divya
+A503,Nova Systems 3,Misc,india,621162378,Rahul
+A504,Prime Group 4,Energy,Singapore,,Priya
+A505,Zen Group 5,Banking,India,487541399,Vikram
+A506,Apex Health 6,Energy,UK,,Priya
+A507,Zen Labs 7,Manufacturing,India,292090149,Vikram
+A508,Terra Energy 8,Energy,India,279110141,Vikram
+A509,Delta Holdings 9,Manufacturing,Singapore,438395096,Divya
+A510,Prime Labs 10,Healthcare,United Kingdom,329703585,Karthik
+A511,Vertex Group 11,Banking,United Kingdom,739695468,
+A512,Orion Tech 12,Retail,United States,928416590,Karthik
+A513,Lumen Holdings 13,Software,Singapore,494152254,Sneha
+A514,Orion Health 14,Software,United States,182894551,Neha
+A515,Vertex Systems 15,Healthcare,US,,Divya
+A516,Prime Labs 16,Banking,United Kingdom,800916306,Rahul
+A517,Apex Health 17,Healthcare,Germany,639449617,Amit
+A518,Prime Group 18,Manufacturing,India,411152157,Amit
+A519,Delta Systems 19,Energy,US,527915151,Amit
+A520,Vertex Retail 20,Energy,United States,889917232,Sneha
+A521,Orion Labs 21,Manufacturing,IN,473992719,Divya
+A522,Apex Health 22,Healthcare,Singapore,574819483,Neha
+A523,Zen Retail 23,Retail,India,220658235,Sneha
+A524,Blue Health 24,Misc,Singapore,456349916,Sneha
+A525,Lumen Health 25,Manufacturing,United States,850282713,Vikram
+A526,Lumen Tech 26,Banking,Singapore,763534625,Neha
+A527,Nova Labs 27,Energy,India,215847550,
+A528,Zen Labs 28,Energy,DE,741138124,Amit
+A529,Lumen Group 29,Energy,USA,427413432,Vikram
+A530,Apex Energy 30,Healthcare,United States,638214657,Rahul
+A531,Prime Tech 31,Healthcare,United Kingdom,521815818,Priya
+A532,Lumen Retail 32,Manufacturing,DE,453566796,Amit
+A533,Blue Retail 33,Healthcare,United States,245226262,Amit
+A534,Blue Energy 34,Misc,SG,921879587,Vikram
+A535,Orion Group 35,Energy,Germany,936560721,Amit
+A536,Apex Health 36,Manufacturing,United States,838066391,
+A537,Vertex Holdings 37,Manufacturing,India,297543237,Neha
+A538,Blue Holdings 38,Banking,Germany,389758574,Sneha
+A539,Zen Systems 39,Software,United States,448854016,Sneha
+A540,Prime Tech 40,Software,Germany,897218787,Rahul
+A541,Nova Group 41,Banking,Singapore,677532596,Rahul
+A542,Prime Tech 42,Software,Singapore,988651295,Amit
+A543,Orion Tech 43,Retail,Germany,197110078,Priya
+A544,Terra Holdings 44,Healthcare,United States,733846414,Sneha
+A545,Nova Health 45,Energy,Germany,871348981,Priya
+A546,Vertex Energy 46,Energy,India,649397669,Amit
+A547,Lumen Labs 47,Misc,Germany,808165309,Amit
+A548,Blue Tech 48,Healthcare,United States,410075739,Priya
+A549,Zen Tech 49,Healthcare,US,683579921,Neha
+A550,Zen Group 0,Software,USA,687703577,Sneha
+A551,Blue Holdings 1,N/A,india,999811151,Divya
+A552,Apex Systems 2,Retail,IN,842507091,Amit
+A553,Terra Energy 3,Banking,Germany,506883029,Vikram
+A554,Nova Health 4,Banking,Singapore,665918566,Sneha
+A555,Terra Tech 5,Energy,United States,194134670,Karthik
+A556,Terra Energy 6,Manufacturing,Germany,239278422,Neha
+A557,Vertex Group 7,Manufacturing,Singapore,307828574,
+A558,Vertex Systems 8,Retail,India,544573290,Divya
+A559,Zen Tech 9,Energy,Singapore,430468261,Divya
+A560,Nova Energy 10,Energy,India,993399121,Divya
+A561,Vertex Group 11,Energy,UK,676564508,Neha
+A562,Apex Health 12,Energy,Germany,323620127,Divya
+A563,Nova Holdings 13,Banking,United Kingdom,673671448,Vikram
+A564,Terra Systems 14,Healthcare,United States,133960537,Priya
+A565,Zen Energy 15,Healthcare,Germany,220507410,Rahul
+A566,Nova Group 16,Software,United States,465196671,Karthik
+A567,Blue Systems 17,Manufacturing,United Kingdom,878001797,Vikram
+A568,Nova Tech 18,Banking,Singapore,193497030,Rahul
+A569,Lumen Health 19,N/A,India,315344841,Karthik
+A570,Delta Group 20,Healthcare,SG,,Priya
+A571,Lumen Energy 21,Healthcare,US,283905107,Divya
+A572,Vertex Tech 22,Software,Singapore,,Priya
+A573,Prime Holdings 23,Manufacturing,Germany,578713043,Karthik
+A574,Zen Systems 24,Software,United Kingdom,,Neha
+A575,Vertex Health 25,Energy,India,340297471,Karthik
+A576,Prime Holdings 26,Energy,United Kingdom,448709567,Rahul
+A577,Vertex Systems 27,Software,India,474322976,Amit
+A578,Nova Labs 28,Banking,Singapore,950866243,Neha
+A579,Terra Labs 29,Retail,Germany,512119784,Sneha
+A580,Prime Labs 30,Healthcare,Singapore,811474491,Neha
+A581,Terra Group 31,Banking,India,535717670,Priya
+A582,Prime Energy 32,Energy,SG,723594774,Rahul
+A583,Blue Group 33,Software,United States,320827549,Divya
+A584,Terra Health 34,Software,United Kingdom,195871622,Vikram
+A585,Orion Tech 35,Manufacturing,United States,,Divya
+A586,Orion Tech 36,Energy,India,864261139,Vikram
+A587,Lumen Retail 37,Software,DE,486856173,Amit
+A588,Blue Holdings 38,Misc,UK,245788098,Vikram
+A589,Terra Labs 39,Software,Germany,583232960,Sneha
+A590,Prime Tech 40,Energy,United States,541133739,Divya
+A591,Apex Group 41,Banking,India,185967108,Karthik
+A592,Lumen Systems 42,Manufacturing,DE,812682111,Priya
+A593,Terra Health 43,Healthcare,Singapore,,Neha
+A594,Delta Labs 44,Healthcare,Singapore,,Karthik
+A595,Orion Tech 45,Manufacturing,SG,413267622,Rahul
+A596,Vertex Systems 46,Banking,United Kingdom,242312411,Karthik
+A597,Apex Systems 47,Manufacturing,United Kingdom,497034107,Karthik
+A598,Vertex Holdings 48,Banking,United States,,Amit
+A599,Prime Labs 49,Software,Germany,720362276,Divya
+A600,vertex holdings 5 ,Manufacturing,US,811890569,
+A601,terra systems 20 ,Healthcare,SG,,Amit
+A602,apex tech 18 ,Software,Germany,,Neha
+A603,prime tech 3 ,Manufacturing,Germany,,Vikram
+A604,nova tech 21 ,Software,United States,226444910,Karthik
+A605,delta energy 25 ,Software,United Kingdom,184189438,Karthik
+A606,vertex retail 8 ,Energy,Singapore,731773948,Sneha
+A607,zen health 37 ,Energy,Germany,301864129,Amit
+A608,terra group 8 ,Retail,United Kingdom,954670083,Rahul
+A609,zen health 37 ,Energy,Germany,301864129,Amit
+A610,nova health 45 ,Energy,Germany,871348981,Priya
+A611,blue systems 39 ,Manufacturing,germany,371031968,Karthik
+A612,terra tech 38 ,Energy,United Kingdom,624117847,Vikram
+A613,vertex holdings 49 ,Banking,Germany,,Neha
+A614,orion tech 35 ,Healthcare,Germany,688638365,Vikram
+A615,nova holdings 18 ,Retail,Singapore,625579419,Divya
+A616,blue systems 48 ,Banking,United States,893112954,Rahul
+A617,orion tech 43 ,Retail,Germany,197110078,Priya
+A618,blue systems 45 ,N/A,Germany,290505619,Rahul
+A619,lumen health 12 ,Healthcare,IN,103484630,Karthik
+A620,prime labs 45 ,Energy,US,927175323,Priya
+A621,prime tech 9 ,Software,Germany,640273782,Priya
+A622,blue group 41 ,Retail,IN,455295629,Rahul
+A623,apex labs 23 ,Healthcare,Singapore,469403820,Divya
+A624,prime tech 42 ,Software,Singapore,988651295,Amit
+A625,prime systems 42 ,Healthcare,United Kingdom,233815413,Karthik
+A626,vertex health 49 ,Energy,US,827579147,Priya
+A627,terra holdings 44 ,Healthcare,United States,733846414,Sneha
+A628,lumen energy 12 ,Manufacturing,India,216076355,Divya
+A629,lumen labs 42 ,Manufacturing,United States,881656471,Karthik
+A630,prime systems 42  ,Healthcare,United Kingdom,233815413,Karthik
+A631,orion holdings 29 ,Energy,Singapore,652348887,Priya
+A632,delta labs 43 ,Software,US,342925794,Rahul
+A633,lumen retail 26 ,Banking,Germany,365785059,Rahul
+A634,blue retail 23 ,Manufacturing,Germany,835187452,Neha
+A635,delta health 0 ,Software,Germany,424400672,Vikram
+A636,prime systems 11 ,N/A,United Kingdom,699140867,Sneha
+A637,vertex holdings 48 ,Banking,United States,,Amit
+A638,blue holdings 0 ,Retail,SG,513028367,Sneha
+A639,lumen energy 22 ,Healthcare,United States,151227475,Amit
+A640,vertex retail 47 ,Software,Germany,809391059,Karthik
+A641,apex tech 18  ,Software,Germany,,Neha
+A642,zen group 49 ,Healthcare,United Kingdom,874881231,Priya
+A643,lumen retail 32 ,Manufacturing,DE,453566796,Amit
+A644,prime group 45 ,Retail,Singapore,,Rahul
+A645,lumen systems 34 ,Software,UK,203950725,Vikram
+A646,vertex tech 20 ,Manufacturing,India,632711663,
+A647,nova energy 10 ,Energy,India,993399121,Divya
+A648,prime labs 10 ,Retail,Singapore,,Priya
+A649,zen tech 8 ,Software,India,709004943,Divya
