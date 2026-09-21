@@ -2,7 +2,7 @@
 
 Sales Ops analytics project on **simulated B2B CRM data** (Dynamics-style fields). Not real client data.
 
-**Live demo:** 
+**Live demo:** https://crm-dashboard-smoky-pi.vercel.app/
 
 ## What it does
 - **Pipeline:** open/weighted pipeline, win rate, stale deals, stage and trend charts, seller win rates, deal aging
